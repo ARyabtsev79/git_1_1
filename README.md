@@ -1,1 +1,21 @@
-# git_1_1
+# NeuroStartUp
+
+![](logo.png)
+
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
+
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
+
+JavaScript:
+
+<script src="https://localhost/neuro.sdk.min.js"></script>
+Java (Maven):
+
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
